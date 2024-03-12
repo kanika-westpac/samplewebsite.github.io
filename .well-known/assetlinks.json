@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "nz.co.westpac",
+    "sha256_cert_fingerprints":
+    ["54:EE:42:66:6B:52:CF:4D:E4:E8:E7:CF:FE:91:7B:AF:A1:D0:EA:5A:9B:1F:5E:CA:33:98:7A:70:E6:C2:1F:87"]
+  }
+}]
